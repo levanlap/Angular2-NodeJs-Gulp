@@ -1,6 +1,6 @@
 # Angular2 Beta with Gulp, Typescript, and Express
 
-Start Angular2
+Start Angular2 test
 Getting Started, grab the dependencies with:
 
 `npm install`
