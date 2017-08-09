@@ -12,7 +12,7 @@ then run
 To run the server do this:
 
 'node dist/server.js/.
-
+lap tets
 
 
 
